@@ -1,3 +1,5 @@
+
+//jitu check the prgram with all possible errors u can think of
 #include "header.h"
 #include "islegal.c"
 #include "count.c"
